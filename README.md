@@ -62,3 +62,7 @@ Want to improve this project? Follow these steps:
 3. **Submit a pull request** 🚀  
 
 ---
+
+## **Dashboard**
+![image](https://github.com/user-attachments/assets/73172de4-141b-4400-8d39-dca83a039c0c)
+
