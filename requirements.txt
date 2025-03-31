@@ -1,0 +1,9 @@
+kafka-python
+praw
+pandas
+streamlit
+nltk
+matplotlib
+wordcloud
+vaderSentiment
+python-dotenv

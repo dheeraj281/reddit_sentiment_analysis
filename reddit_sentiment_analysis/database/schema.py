@@ -1,0 +1,1 @@
+# Defines DB schema (for structured storage).
